@@ -1,1 +1,4 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Rails app of search demo to apply on any project you like.
+This will make app userfriendly.
+To make this working few changies require in MVC.
+
